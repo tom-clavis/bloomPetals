@@ -1,0 +1,39 @@
+header {
+    background-color: rgb(9, 252, 1);
+    margin: -8px;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+
+}
+a:link{
+    text-decoration: none;
+    color: black
+    
+}
+body{
+    background-image: url(Photos/Fondbleu.jpg);
+}
+#searchbar{
+    background: greenyellow;
+    border-radius: 20px;
+    text-align: center;
+    border: none;
+}
+h1{
+    text-align: center;
+    color: rgb(191, 255, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.img{
+    display: flex;
+    justify-content:center;
+    flex-wrap:wrap
+}
+img{
+    height: 175px;
+    width: 175px;
+    margin: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
